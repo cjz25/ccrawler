@@ -1,0 +1,11 @@
+browser:
+  chrome:
+    mac: /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome
+
+driver:
+  dirname: driver
+  chrome: driver/chromedriver
+
+fb_group:
+  link_filename: facebook_group_link
+  post_dirname: facebook_group
